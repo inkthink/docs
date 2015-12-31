@@ -90,15 +90,16 @@ a full (including flashing alternative firmware, switching keycaps, but not open
 - Wing wrist rest
 - one-handed version (seen by computer as 2 keyboards)
 
-#### Unofficial options
+#### Unofficial options/ideas for accessories
 
 This list is ongoing and a work in progress. Please update with more information!
 
 - home row indicators, [e.g. Part # 223-999-0253](http://shop.hooleon.com/)
 - [o-ring dampers](http://www.wasdkeyboards.com/index.php/cherry-mx-rubber-o-ring-switch-dampeners-125pcs.html)
 - [graffiti wrist rests](http://www.grifiti.com/products/ergodox-fat-wrist-pad-set-custom-fit-massdrop-split-keyboard-set)
-- Custom 3.5mm and/or USB cables
+- Custom TRRS and/or USB cables
 - New/custom keycaps: WASD, Signature, etc.
+- carrying cases & trays: [Mechanical Keyboards ergodox case](http://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1095), [KeyChatter massdrop ergodox case](https://www.massdrop.com/buy/ergodox-hard-case/), [wood ergodox tray/case](http://www.key64.org/news/wood-case-for-ergodox-with-trackball-tray)
 - Bluetooth adapters, e.g. [Nulaxy](https://www.indiegogo.com/projects/keyboard-mouse-bluetooth-adapter/x/10804964) (compatibility?)
 
 
